@@ -1,5 +1,7 @@
 body {
   font-family: "Open Sans",Arial,sans-serif;
+  color: #666;
+  font-size: 14px;
 }
 
 .page-title-row {
@@ -46,4 +48,28 @@ body {
   position: relative;
   width: 100%;
   vertical-align: baseline;
+}
+
+h1 {
+  font-size: 30px;
+  color: #333;
+}
+
+h2 {
+  font-size: 26px;
+  color: #333;
+}
+
+h3 {
+  color: #333;
+}
+
+.links-list li {
+  text-decoration: none;
+  list-style: none;
+  margin-bottom: 8px;
+}
+
+.links-list li a {
+  color: #333;
 }
